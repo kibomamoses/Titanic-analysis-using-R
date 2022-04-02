@@ -1,0 +1,28 @@
+{
+    "id": "EE63DA8C",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1645716368920.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "229e4d3fb4b6460297e0c8a379223835",
+        "name": "mod.1",
+        "title": "mod.1",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 94148053393840,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1645716368920,
+    "read_only": false,
+    "read_only_alternatives": []
+}
